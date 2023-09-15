@@ -30,6 +30,9 @@ public class OpenBrowser {
 		System.out.println("page Title1 :"+ driver.getTitle());
 		
 		System.out.println("Hello Badal");
+		System.out.println("Hello Badal");
+		System.out.println("Hello Badalqwertyuiop");
+		
 		
 		Thread.sleep(2000);
 		
